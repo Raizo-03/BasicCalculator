@@ -1,4 +1,4 @@
-# ** 🚀 **Basic Calculator** 🚀
+# 🚀 **Basic Calculator** 🚀
 
 🧮 *Basic Calculator using Java Application Window GUI*🧮
 
