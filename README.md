@@ -1,6 +1,6 @@
-# ** 🚀 Basic Calculator 🚀 **
+# ** 🚀 **Basic Calculator** 🚀
 
-🧮 Basic Calculator using Java Application Window GUI 🧮
+🧮 *Basic Calculator using Java Application Window GUI*🧮
 
 This repository contains a simple calculator implemented using Java's Swing GUI library.
 
